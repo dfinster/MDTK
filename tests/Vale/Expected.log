@@ -1,0 +1,201 @@
+Vale.Repetition.md:7:21:Vale.Repetition:'jumped' is repeated!
+mdtk.Acronyms.md:7:5:mdtk.Acronyms:Please define acronyms like 'OED' before use. For example: "Deploy your Virtual Private Server (VPS) instance at mdtk."
+mdtk.AvoidIdoms.md:7:1:mdtk.AvoidIdoms:mdtk serves an international audience that may be confused by 'in a jiffy.'
+mdtk.AvoidIdoms.md:8:1:mdtk.AvoidIdoms:mdtk serves an international audience that may be confused by 'should you wish.'
+mdtk.AvoidIdoms.md:9:1:mdtk.AvoidIdoms:mdtk serves an international audience that may be confused by 'first and foremost.'
+mdtk.AvoidIdoms.md:10:1:mdtk.AvoidIdoms:mdtk serves an international audience that may be confused by 'for all intents and purposes.'
+mdtk.AvoidIdoms.md:11:1:mdtk.AvoidIdoms:mdtk serves an international audience that may be confused by 'for the most part.'
+mdtk.AvoidIdoms.md:12:1:mdtk.AvoidIdoms:mdtk serves an international audience that may be confused by 'for the purpose of.'
+mdtk.AvoidIdoms.md:13:1:mdtk.AvoidIdoms:mdtk serves an international audience that may be confused by 'have a tendency to.'
+mdtk.AvoidIdoms.md:14:1:mdtk.AvoidIdoms:mdtk serves an international audience that may be confused by 'in a manner of speaking.'
+mdtk.AvoidIdoms.md:15:1:mdtk.AvoidIdoms:mdtk serves an international audience that may be confused by 'in a very real sense.'
+mdtk.AvoidIdoms.md:15:6:mdtk.WeakWriting2:Words like 'very' make your writing weaker.
+mdtk.Because.md:7:20:mdtk.Because:Please verify that you've used 'since' to refer to time and 'because' for the reason. For example, "It's been an hour since he left, because he had a flat tire."
+mdtk.British.md:7:45:mdtk.British:Use the US spelling 'behavior' instead of the British 'behaviour.'
+mdtk.CurrentStatus.md:7:23:mdtk.CurrentStatus:Avoid words like 'currently' that imply future changes.
+mdtk.DateMidnight.md:7:24:mdtk.DateMidnight:Use 'midnight' or 'noon.'
+mdtk.DateMidnight.md:8:24:mdtk.DateMidnight:Use 'midnight' or 'noon.'
+mdtk.DateMidnight.md:9:24:mdtk.DateMidnight:Use 'midnight' or 'noon.'
+mdtk.DateMidnight.md:10:24:mdtk.DateMidnight:Use 'midnight' or 'noon.'
+mdtk.DateMidnight.md:11:24:mdtk.DateMidnight:Use 'midnight' or 'noon.'
+mdtk.DateMidnight.md:12:24:mdtk.DateMidnight:Use 'midnight' or 'noon.'
+mdtk.DateRedundancy.md:7:27:mdtk.DateRedundancy:This is redundant. 'a.m.' is always before noon and 'p.m.' is always after noon.
+mdtk.DateRedundancy.md:8:27:mdtk.DateRedundancy:This is redundant. 'a.m.' is always before noon and 'p.m.' is always after noon.
+mdtk.DateRedundancy.md:9:26:mdtk.DateRedundancy:This is redundant. 'a.m.' is always before noon and 'p.m.' is always after noon.
+mdtk.DateRedundancy.md:10:27:mdtk.DateRedundancy:This is redundant. 'a.m.' is always before noon and 'p.m.' is always after noon.
+mdtk.Ellipses.md:7:11:mdtk.Ellipses:Ellipsis are seldom used in documentation.
+mdtk.Exclamation.md:7:48:mdtk.Exclamation:Please do not use exclamation points.
+mdtk.Exclamation.md:12:17:mdtk.Exclamation:Please do not use exclamation points.
+mdtk.FirstNext.md:7:1:mdtk.FirstNext:This looks like a sequence of steps. Please use ordered lists when possible.
+mdtk.FirstNext.md:7:74:mdtk.FirstNext:This looks like a sequence of steps. Please use ordered lists when possible.
+mdtk.FirstNext.md:9:1:mdtk.FirstNext:This looks like a sequence of steps. Please use ordered lists when possible.
+mdtk.FirstNext.md:9:1:mdtk.Ordinal:Don't use adverb forms of numbered steps. Please rewrite the sentence.
+mdtk.FirstNext.md:9:52:mdtk.Ordinal:Don't use adverb forms of numbered steps. Please rewrite the sentence.
+mdtk.FirstNext.md:9:93:mdtk.Ordinal:Don't use adverb forms of numbered steps. Please rewrite the sentence.
+mdtk.FirstNext.md:9:115:mdtk.Ordinal:Don't use adverb forms of numbered steps. Please rewrite the sentence.
+mdtk.FirstNext.md:11:1:mdtk.FirstNext:This looks like a sequence of steps. Please use ordered lists when possible.
+mdtk.FirstNext.md:11:56:mdtk.FirstNext:This looks like a sequence of steps. Please use ordered lists when possible.
+mdtk.FirstNext.md:13:1:mdtk.FirstNext:This looks like a sequence of steps. Please use ordered lists when possible.
+mdtk.FirstNext.md:13:56:mdtk.FirstNext:This looks like a sequence of steps. Please use ordered lists when possible.
+mdtk.FirstNext.md:15:1:mdtk.FirstNext:This looks like a sequence of steps. Please use ordered lists when possible.
+mdtk.FirstNext.md:15:56:mdtk.FirstNext:This looks like a sequence of steps. Please use ordered lists when possible.
+mdtk.FirstNext.md:17:11:mdtk.Ordinal:Don't use adverb forms of numbered steps. Please rewrite the sentence.
+mdtk.FirstNext.md:17:46:mdtk.FirstNext:This looks like a sequence of steps. Please use ordered lists when possible.
+mdtk.FirstNext.md:17:49:mdtk.Ordinal:Don't use adverb forms of numbered steps. Please rewrite the sentence.
+mdtk.FirstNext.md:17:77:mdtk.FirstNext:This looks like a sequence of steps. Please use ordered lists when possible.
+mdtk.FirstNext.md:17:80:mdtk.Ordinal:Don't use adverb forms of numbered steps. Please rewrite the sentence.
+mdtk.FirstPerson.md:7:1:mdtk.FirstPerson:Please avoid first-person pronouns such as 'I ' unless writing FAQ questions.
+mdtk.FirstPerson.md:7:46:mdtk.FirstPerson:Please avoid first-person pronouns such as 'my' unless writing FAQ questions.
+mdtk.FirstPerson.md:11:8:mdtk.FirstPerson:Please avoid first-person pronouns such as ' I ' unless writing FAQ questions.
+mdtk.FirstPerson.md:11:43:mdtk.FirstPerson:Please avoid first-person pronouns such as 'My' unless writing FAQ questions.
+mdtk.FutureTense.md:7:12:mdtk.FutureTense:Be cautious with future tense phrases like 'will finish.'
+mdtk.Gender.md:7:1:mdtk.Gender:Consider using 'they' instead of 'He.'
+mdtk.Gender.md:8:16:mdtk.Gender:Consider using 'their' instead of 'him.'
+mdtk.Gender.md:9:21:mdtk.Gender:Consider using 'theirs' instead of 'his.'
+mdtk.Gender.md:11:1:mdtk.Gender:Consider using 'they' instead of 'She.'
+mdtk.Gender.md:12:16:mdtk.Gender:Consider using 'their' instead of 'her.'
+mdtk.Gender.md:13:21:mdtk.Gender:Consider using 'theirs' instead of 'hers.'
+mdtk.HeadingPunctuation.md:13:29:mdtk.Exclamation:Please do not use exclamation points.
+mdtk.Headings.md:7:4:mdtk.HeadingsH2:Heading level two should use title case. mdtk uses the Chicago Manual of Style.
+mdtk.Headings.md:11:5:mdtk.HeadingsH3:Heading level three should use title case. mdtk uses the Chicago Manual of Style.
+mdtk.Inclusive.md:7:16:mdtk.Passive:In most cases, documentation should use active voice. 'is whitelisted' looks like passive voice.
+mdtk.Inclusive.md:7:19:mdtk.Inclusive:Please consider using 'allow' or 'allowlist' instead of 'whitelisted.'
+mdtk.Inclusive.md:8:5:mdtk.Inclusive:Please consider using 'primary' or 'main' instead of 'master.'
+mdtk.Inclusive.md:8:35:mdtk.Inclusive:Please consider using 'secondary', 'replica', or 'subordinate' instead of 'slave.'
+mdtk.LatinAbbreviations.md:5:35:mdtk.LatinAbbreviations:Please use 'that is' instead of 'i.e.', or consider rewriting the sentence.
+mdtk.LatinAbbreviations.md:5:41:mdtk.LatinAbbreviations:Please use 'that is' instead of 'i. e.', or consider rewriting the sentence.
+mdtk.LatinAbbreviations.md:5:48:mdtk.LatinAbbreviations:Please use 'for example' instead of 'e.g.', or consider rewriting the sentence.
+mdtk.LatinAbbreviations.md:5:54:mdtk.LatinAbbreviations:Please use 'for example' instead of 'e. g.', or consider rewriting the sentence.
+mdtk.LatinAbbreviations.md:5:84:mdtk.LatinAbbreviations:Please use 'and so on' instead of 'etc.', or consider rewriting the sentence.
+mdtk.LatinAbbreviations.md:5:90:mdtk.LatinAbbreviations:Please use 'and so on' instead of 'et cetera', or consider rewriting the sentence.
+mdtk.LatinAbbreviations.md:5:93:Vale.Spelling:Did you really mean 'cetera'?
+mdtk.LatinAbbreviations.md:5:101:Vale.Spelling:Did you really mean 'etcetera'?
+mdtk.LatinAbbreviations.md:5:101:mdtk.LatinAbbreviations:Please use 'and so on' instead of 'etcetera', or consider rewriting the sentence.
+mdtk.Lets.md:9:1:mdtk.Acronyms:Please define acronyms like 'PCRE' before use. For example: "Deploy your Virtual Private Server (VPS) instance at mdtk."
+mdtk.Lets.md:9:12:mdtk.We:Be cautious with first person plural pronouns like 'us.' Make sure it refers to mdtk, not the reader or author.
+mdtk.Lets.md:10:24:mdtk.Simply:Please avoid 'easy'.
+mdtk.MarkdownBackticks.md:9:3:mdtk.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+mdtk.MarkdownBackticks.md:9:11:mdtk.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+mdtk.MarkdownBackticks.md:10:3:mdtk.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+mdtk.MarkdownBackticks.md:10:16:mdtk.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+mdtk.MarkdownBackticks.md:11:3:mdtk.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+mdtk.MarkdownBackticks.md:11:5:mdtk.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+mdtk.MarkdownBackticks.md:11:19:mdtk.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+mdtk.MarkdownBackticks.md:11:21:mdtk.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+mdtk.MarkdownBackticks.md:15:3:mdtk.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+mdtk.MarkdownBackticks.md:15:12:mdtk.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+mdtk.MarkdownBackticks.md:16:3:mdtk.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+mdtk.MarkdownBackticks.md:16:16:mdtk.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+mdtk.MarkdownBackticks.md:17:3:mdtk.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+mdtk.MarkdownBackticks.md:17:18:mdtk.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+mdtk.MarkdownBackticks.md:19:1:mdtk.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+mdtk.MarkdownBackticks.md:22:1:mdtk.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+mdtk.MarkdownBackticks.md:22:3:mdtk.MarkdownBackticks:Use single backticks for inline code. For codeblocks, indent by four spaces. Do not use tabs. Do not use fenced codeblocks.
+mdtk.MarkdownBullet.md:7:1:mdtk.MarkdownBullet:Use an asterisk instead of a hyphen for bullet points.
+mdtk.MarkdownBullet.md:8:1:mdtk.MarkdownBullet:Use an asterisk instead of a hyphen for bullet points.
+mdtk.MarkdownBullet.md:9:1:mdtk.MarkdownBullet:Use an asterisk instead of a hyphen for bullet points.
+mdtk.MarkdownBullet.md:10:1:mdtk.MarkdownBullet:Use an asterisk instead of a hyphen for bullet points.
+mdtk.MarkdownBullet.md:11:1:mdtk.MarkdownBullet:Use an asterisk instead of a hyphen for bullet points.
+mdtk.MarkdownTabs.md:7:1:mdtk.MarkdownTabs:Indent code by four spaces. Do not use tabs.
+mdtk.MeaningfulLinks.md:7:36:mdtk.MeaningfulLinks:Avoid 'here' in the link text. Use meaningful links to improve accessibility and optimize search results.
+mdtk.MeaningfulLinks.md:8:39:mdtk.MeaningfulLinks:Avoid 'this page' in the link text. Use meaningful links to improve accessibility and optimize search results.
+mdtk.Negative.md:7:26:mdtk.Negative:Please use an en dash, not a hyphen, for negative numbers.
+mdtk.Now.md:8:1:mdtk.So:Please avoid 'So,' at the beginning of a sentence.
+mdtk.Now.md:8:38:mdtk.Now:Please avoid 'Now,' at the beginning of a sentence.
+mdtk.Now.md:8:76:mdtk.So:Please avoid 'So ' at the beginning of a sentence.
+mdtk.Now.md:8:102:mdtk.Now:Please avoid 'Now ' at the beginning of a sentence.
+mdtk.Now.md:12:23:mdtk.FirstPerson:Please avoid first-person pronouns such as ' I ' unless writing FAQ questions.
+mdtk.ObjectStorage.md:7:57:mdtk.ObjectStorage:Do not use direct Object Storage links.
+mdtk.Once.md:7:1:mdtk.Once:Please verify that 'once' refers to counting, as in "Run the job once...", and use 'after' if describing a sequence of events.
+mdtk.Ordinal.md:7:1:mdtk.Ordinal:Don't use adverb forms of numbered steps. Please rewrite the sentence.
+mdtk.Oxymorons.md:7:7:mdtk.Oxymorons:Please avoid oxymorons such as 'generally always.'
+mdtk.Passive.md:7:11:mdtk.Passive:In most cases, documentation should use active voice. 'was logged' looks like passive voice.
+mdtk.Percentages.md:7:6:mdtk.Percentages:Use a numeral plus the units. For example, use '20 percent' instead of 'twenty percent.'
+mdtk.Periods.md:7:32:mdtk.Periods:Acronyms or initialisms such as 'R.A.M.' should not have periods.
+mdtk.Ranges.md:7:12:mdtk.Ranges:Unless space is an issue, such as in tables, use 'from' and 'through' to describe a range of numbers. Example: "from 20 through 30".
+mdtk.Ranges.md:11:12:mdtk.Ranges:Unless space is an issue, such as in tables, use 'from' and 'through' to describe a range of numbers. Example: "from 20 through 30".
+mdtk.Redundant.md:7:1:mdtk.Redundant:'You will need to' may be redundant. Consider removing this phrase.
+mdtk.Redundant.md:7:5:mdtk.FutureTense:Be cautious with future tense phrases like 'will need.'
+mdtk.Semicolon.md:7:68:mdtk.Semicolon:Sentences that contain semicolons are often complex. Try to simplify the sentence by breaking it into multiple sentences or a list.
+mdtk.SentenceLength.md:7:1:mdtk.SentenceLength:Consider using sentences of 40 words or less to improve readability.
+mdtk.SentenceSpacing.md:7:33:mdtk.SentenceSpacing:'d.I' must contain one and only one space.
+mdtk.SentenceSpacing.md:7:114:mdtk.SentenceSpacing:'. T' must contain one and only one space.
+mdtk.Simply.md:7:6:mdtk.Simply:Please avoid 'simple to use'.
+mdtk.Simply.md:7:29:mdtk.Simply:Please avoid 'simple'.
+mdtk.Simply.md:7:45:mdtk.Simply:Please avoid 'easy'.
+mdtk.Simply.md:7:55:mdtk.Simply:Please avoid 'easy to use'.
+mdtk.Simply.md:7:76:mdtk.Simply:Please avoid 'simple'.
+mdtk.Simply.md:7:84:mdtk.Simply:Please avoid 'Simply'.
+mdtk.Simply.md:7:99:mdtk.Simply:Please avoid 'simple'.
+mdtk.Simply.md:7:118:mdtk.Simply:Please avoid 'easy'.
+mdtk.SubstitutionComplex.md:7:1:mdtk.SubstitutionComplex:Consider using 'realized' instead of 'came to a realization.'
+mdtk.SubstitutionComplex.md:8:1:mdtk.SubstitutionComplex:Consider using 'ended abruptly' instead of 'came to an abrupt end.'
+mdtk.SubstitutionComplex.md:9:1:mdtk.SubstitutionComplex:Consider using 'evaluate' instead of 'carry out an evaluation of.'
+mdtk.SubstitutionWarning.md:7:14:mdtk.SubstitutionWarning:Please consider using 'distribution' instead of 'distro.'
+mdtk.SubstitutionWarning.md:8:9:mdtk.SubstitutionWarning:Please consider using 'information' instead of 'info.'
+mdtk.SubstitutionWarning.md:9:11:mdtk.SubstitutionWarning:Please consider using 'repository' instead of 'repo.'
+mdtk.Substitutions.md:7:1:mdtk.Substitutions:mdtk prefers 'email' instead of 'e-mail.'
+mdtk.Substitutions.md:8:1:mdtk.Substitutions:mdtk prefers 'email' instead of 'Email.'
+mdtk.Substitutions.md:9:1:mdtk.Substitutions:mdtk prefers 'email' instead of 'E-mail.'
+mdtk.Substitutions.md:10:1:mdtk.Substitutions:mdtk prefers 'path' instead of 'file path.'
+mdtk.Substitutions.md:11:1:mdtk.Substitutions:mdtk prefers 'path' instead of 'path name.'
+mdtk.Substitutions.md:12:1:mdtk.Substitutions:mdtk prefers 'stop', 'exit', 'cancel', or 'end' instead of 'kill.'
+mdtk.Substitutions.md:13:1:mdtk.Substitutions:mdtk prefers 'stop', 'exit', 'cancel', or 'end' instead of 'terminate.'
+mdtk.Substitutions.md:14:1:mdtk.Substitutions:mdtk prefers 'stop', 'exit', 'cancel', or 'end' instead of 'abort.'
+mdtk.Substitutions.md:15:1:mdtk.Substitutions:mdtk prefers 'OK' instead of 'ok.'
+mdtk.Substitutions.md:16:1:mdtk.Substitutions:mdtk prefers 'Wi-Fi' instead of 'WiFi.'
+mdtk.Substitutions.md:17:1:mdtk.Substitutions:mdtk prefers 'Wi-Fi' instead of 'wifi.'
+mdtk.Substitutions.md:17:1:Vale.Spelling:Did you really mean 'wifi'?
+mdtk.Substitutions.md:22:1:mdtk.Substitutions:mdtk prefers 'AJAX' instead of 'Ajax.'
+mdtk.Substitutions.md:23:1:mdtk.Substitutions:mdtk prefers 'about' instead of 'approx.'
+mdtk.Substitutions.md:24:1:mdtk.Substitutions:mdtk prefers 'authentication' instead of 'authN.'
+mdtk.Substitutions.md:25:1:mdtk.Substitutions:mdtk prefers 'authorization' instead of 'authZ.'
+mdtk.Substitutions.md:27:1:mdtk.Substitutions:mdtk prefers 'mobile data' instead of 'cellular data.'
+mdtk.Substitutions.md:28:1:mdtk.Substitutions:mdtk prefers 'mobile network' instead of 'cellular network.'
+mdtk.Substitutions.md:29:1:mdtk.Substitutions:mdtk prefers 'checkbox' instead of 'check box.'
+mdtk.Substitutions.md:30:1:mdtk.Substitutions:mdtk prefers 'cloud compute instance' instead of 'cloud computer.'
+mdtk.Substitutions.md:33:1:mdtk.Substitutions:mdtk prefers 'location' instead of 'datacenters.'
+mdtk.Substitutions.md:34:1:mdtk.Substitutions:mdtk prefers 'filename' instead of 'file name.'
+mdtk.Substitutions.md:36:1:mdtk.Substitutions:mdtk prefers 'unavailable' instead of 'grayed-out.'
+mdtk.Substitutions.md:37:1:mdtk.Substitutions:mdtk prefers 'HTTPS' instead of 'HTTPs.'
+mdtk.Substitutions.md:38:1:mdtk.Substitutions:mdtk prefers 'import' or 'load' instead of 'ingest.'
+mdtk.Substitutions.md:39:1:mdtk.Substitutions:mdtk prefers 'Kubernetes' instead of 'k8s.'
+mdtk.Substitutions.md:41:1:mdtk.Substitutions:mdtk prefers 'regular expression' instead of 'regex.'
+mdtk.Substitutions.md:42:1:mdtk.Substitutions:mdtk prefers 'sign in to' instead of 'sign into.'
+mdtk.Substitutions.md:43:1:mdtk.Substitutions:mdtk prefers 'sync' instead of 'synch.'
+mdtk.Substitutions.md:45:1:mdtk.Substitutions:mdtk prefers 'device' instead of 'tablet.'
+mdtk.Substitutions.md:46:1:Vale.Spelling:Did you really mean 'url'?
+mdtk.Substitutions.md:46:1:mdtk.Substitutions:mdtk prefers 'URL' instead of 'url.'
+mdtk.Substitutions.md:47:1:mdtk.Substitutions:mdtk prefers 'versus' instead of 'vs.'
+mdtk.Substitutions.md:49:1:mdtk.Substitutions:mdtk prefers 'web server' instead of 'webserver.'
+mdtk.Substitutions.md:50:1:mdtk.Substitutions:mdtk prefers 'web' instead of 'World Wide Web.'
+mdtk.Substitutions.md:51:1:mdtk.Substitutions:mdtk prefers 'X.509' instead of 'x509.'
+mdtk.TimeFormat.md:7:16:mdtk.TimeFormat:Use 'a.m.' or 'p.m.' preceded by a space.
+mdtk.TimeFormat.md:8:16:mdtk.TimeFormat:Use 'a.m.' or 'p.m.' preceded by a space.
+mdtk.TimeFormat.md:9:16:mdtk.TimeFormat:Use 'a.m.' or 'p.m.' preceded by a space.
+mdtk.TimeFormat.md:10:16:mdtk.TimeFormat:Use 'a.m.' or 'p.m.' preceded by a space.
+mdtk.TimeFormat.md:11:16:mdtk.TimeFormat:Use 'a.m.' or 'p.m.' preceded by a space.
+mdtk.TimeFormat.md:12:16:mdtk.TimeFormat:Use 'a.m.' or 'p.m.' preceded by a space.
+mdtk.TimeFormat.md:13:16:mdtk.TimeFormat:Use 'a.m.' or 'p.m.' preceded by a space.
+mdtk.TimeFormat.md:14:16:mdtk.TimeFormat:Use 'a.m.' or 'p.m.' preceded by a space.
+mdtk.TimeRange.md:7:25:mdtk.TimeRange:Use 'to' instead of a dash in time ranges. For example: "The schedule runs from 10:00 a.m. to 2:00 p.m. each day."
+mdtk.TimeRange.md:8:25:mdtk.TimeRange:Use 'to' instead of a dash in time ranges. For example: "The schedule runs from 10:00 a.m. to 2:00 p.m. each day."
+mdtk.URLFormat.md:7:22:mdtk.URLFormat:Use 'a URL' instead of 'an URL.'
+mdtk.URLFormat.md:8:26:mdtk.URLFormat:Use 'URL of' instead of 'URL for.'
+mdtk.Uncomparables.md:7:6:mdtk.Uncomparables:'increasingly impossible' is not comparable. Please rephrase this sentence.
+mdtk.Uncomparables.md:9:9:mdtk.Uncomparables:'increasingly true' is not comparable. Please rephrase this sentence.
+mdtk.Uncomparables.md:9:36:mdtk.Uncomparables:'increasingly false' is not comparable. Please rephrase this sentence.
+mdtk.UseNounVerb.md:14:125:mdtk.Substitutions:mdtk prefers 'clicking' instead of 'clicking on.'
+mdtk.We.md:7:1:mdtk.We:Be cautious with first person plural pronouns like 'We.' Make sure it refers to mdtk, not the reader or author.
+mdtk.We.md:8:1:mdtk.We:Be cautious with first person plural pronouns like 'We've.' Make sure it refers to mdtk, not the reader or author.
+mdtk.We.md:9:1:mdtk.We:Be cautious with first person plural pronouns like 'We're.' Make sure it refers to mdtk, not the reader or author.
+mdtk.We.md:10:1:mdtk.We:Be cautious with first person plural pronouns like 'Our.' Make sure it refers to mdtk, not the reader or author.
+mdtk.We.md:10:43:mdtk.We:Be cautious with first person plural pronouns like 'ours.' Make sure it refers to mdtk, not the reader or author.
+mdtk.We.md:11:26:mdtk.We:Be cautious with first person plural pronouns like 'us.' Make sure it refers to mdtk, not the reader or author.
+mdtk.WeakWriting.md:7:1:mdtk.WeakWriting:Sentences that begin with 'There is' tend to be wordy. Consider rephrasing this sentence more concisely.
+mdtk.WeakWriting.md:7:58:mdtk.WeakWriting:Sentences that begin with 'There are' tend to be wordy. Consider rephrasing this sentence more concisely.
+mdtk.WeakWriting.md:7:95:mdtk.WeakWriting:Sentences that begin with 'It is' tend to be wordy. Consider rephrasing this sentence more concisely.
+mdtk.WeakWriting.md:7:104:mdtk.Simply:Please avoid 'easy'.
+mdtk.WeakWriting.md:9:16:mdtk.WeakWriting2:Words like 'quite' make your writing weaker.
+mdtk.WeakWriting.md:9:47:mdtk.WeakWriting2:Words like 'very' make your writing weaker.
+mdtk.WeakWriting.md:9:63:mdtk.WeakWriting2:Words like 'extremely' make your writing weaker.

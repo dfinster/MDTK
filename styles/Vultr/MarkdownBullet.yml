@@ -1,0 +1,14 @@
+---
+# The mdtk Markdown Toolkit is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+# https://creativecommons.org/licenses/by/4.0/
+#
+# mdtk prefers asterisk to hyphen for Markdown bullet points.
+#
+extends: existence
+message: "Use an asterisk instead of a hyphen for bullet points."
+link: https://www.mdtk.com/docs/mdtk-docs-style-guide
+level: error
+nonword: true
+scope: raw
+tokens:
+  - '^-\s(.*$)'
