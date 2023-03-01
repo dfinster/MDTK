@@ -20,7 +20,7 @@ It is licensed under the Creative Commons Attribution-ShareAlike 4.0 Internation
 
 The Markdown Toolkit builds on these projects:
 
-* Portions of this toolkit are modifications based on work created and shared by mdtk and used according to terms described in the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License.  
+* Portions of this toolkit are modifications based on work created and shared by Vultr and used according to terms described in the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License.  
 <https://github.com/mdtk/mdtk-mdtk/blob/main/LICENSE.md>
 * Portions of this toolkit are modifications based on work created and shared by GitLab and used according to terms described in the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License.  
 <https://gitlab.com/gitlab-org/gitlab/blob/master/CONTRIBUTING.md>

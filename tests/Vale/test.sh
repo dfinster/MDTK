@@ -1,6 +1,6 @@
 #!/bin/bash
 ##############################################################################
-# Contact: David Finster - dfinster@mdtk.com
+# Contact: David Finster - david@fortc.com
 #
 # This folder contain one Markdown files per Vale Style rule. Each Markdown
 # file is designed to violate that rule in some way, and may also demonstrate
@@ -24,7 +24,7 @@
 ##############################################################################
 # MIT license
 #
-# Copyright 2020, mdtk.com
+# Copyright 2020, David Finster
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to 
