@@ -12,9 +12,9 @@
 #
 # For a list of all options, see https://errata-ai.gitbook.io/vale/getting-started/styles
 extends: existence
-message: "'%s' must contain one and only one space."
-link: https://www.mdtk.com/docs/mdtk-docs-style-guide
-level: error
+message: "'%s' should have only one space."
+link: https://github.com/dfinster/MDTK
+level: suggestion
 nonword: true
 tokens:
   - '[a-z][.?!,][A-Z]'

@@ -4,7 +4,7 @@
 # https://github.com/errata-ai/proselint/blob/master/LICENSE
 extends: existence
 message: "This is redundant. 'a.m.' is always before noon and 'p.m.' is always after noon."
-link: https://www.mdtk.com/docs/mdtk-docs-style-guide
+link: https://github.com/dfinster/MDTK
 level: error
 ignorecase: true
 nonword: true

@@ -1,0 +1,11 @@
+---
+# Portions of this toolkit are modifications based on work created and shared by Google and 
+# used according to terms described in the Creative Commons 4.0 Attribution License.
+# https://developers.google.com/terms/site-policies
+extends: existence
+message: "Acronyms or initialisms such as '%s' should not have periods."
+link: https://github.com/dfinster/MDTK
+level: error
+nonword: true
+tokens:
+  - '\b(?:[A-Z]\.){3,}'

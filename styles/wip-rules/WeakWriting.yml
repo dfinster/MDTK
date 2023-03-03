@@ -1,0 +1,11 @@
+---
+# Portions of this toolkit are modifications based on the write-good style rules and 
+# used according to terms described in the MIT license.
+# https://github.com/errata-ai/write-good/blob/master/LICENSE
+extends: existence
+message: "Sentences that begin with '%s' tend to be wordy. Consider rephrasing this sentence more concisely."
+link: https://github.com/dfinster/MDTK
+level: warning
+ignorecase: false
+raw:
+  - '(?:[;-]\s)There\s(is|are|were)|\bThere\s(is|are|were)\b|\bIt is\b'

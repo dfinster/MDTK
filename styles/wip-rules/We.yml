@@ -1,0 +1,14 @@
+---
+# Portions of this toolkit are modifications based on work created and shared by Microsoft and
+# used according to terms described in the Creative Commons 4.0 Attribution International License.
+# https://github.com/MicrosoftDocs/microsoft-style-guide/lob/master/LICENSE
+extends: existence
+message: "Make sure '%s.' refers to mdtk, and not not the reader or author."
+link: https://github.com/dfinster/MDTK
+level: warning
+ignorecase: true
+tokens:
+  - we'(?:ve|re)
+  - we
+  - ours?
+  - us

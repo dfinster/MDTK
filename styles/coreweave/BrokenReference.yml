@@ -1,0 +1,14 @@
+---
+# The Markdown Toolkit (MDTK) is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+# https://creativecommons.org/licenses/by/4.0/
+#
+# Look for broken links in GitBook
+#
+extends: existence
+message: "This looks like a broken GitBook link."
+link: https://github.com/dfinster/MDTK
+level: error
+nonword: true
+scope: raw
+tokens:
+  - broken-reference

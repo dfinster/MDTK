@@ -3,17 +3,20 @@
 # used according to terms described in the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License.
 # https://gitlab.com/gitlab-org/gitlab/blob/master/CONTRIBUTING.md
 # ---
-# Warning: gitlab.MeaningfulLinkWords
+# gitlab.CurrentStatus
 #
-# Checks for the presence of semantically unhelpful words in link text.
+# Checks for words that indicate a product or feature may change in the future.
 #
 # For a list of all options, see https://errata-ai.gitbook.io/vale/getting-started/styles
 extends: existence
-message: "Avoid '%s' in the link text. Use meaningful links to improve accessibility and optimize search results."
+message: "Avoid words like '%s' that imply future changes."
 link: https://github.com/dfinster/MDTK
-level: error
-scope: link
+level: suggestion
 ignorecase: true
 tokens:
-  - here
-  - this page
+  - currently
+  - current
+  - as of writing
+  - at this time
+  - as of this writing
+  - at the time of this

@@ -1,0 +1,18 @@
+---
+# The Markdown Toolkit (MDTK) is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+# https://creativecommons.org/licenses/by/4.0/
+#
+# 'Simply' is subjective and alienating.
+#
+extends: existence
+message: "Please avoid '%s'."
+link: https://github.com/dfinster/MDTK
+level: suggestion
+ignorecase: true
+tokens:
+  - simple to use
+  - easy to use
+  - simply
+  - simple
+  - easy
+  - easier
