@@ -4,7 +4,7 @@
 # https://github.com/errata-ai/proselint/blob/master/LICENSE
 extends: existence
 message: "Please avoid oxymorons such as '%s.'"
-link: https://www.mdtk.com/docs/mdtk-docs-style-guide
+link: https://github.com/dfinster/MDTK
 level: error
 ignorecase: true
 tokens:
@@ -24,3 +24,8 @@ tokens:
   - organized mess
   - totally obsolescent
   - usually always
+  - original copy
+  - authentic reproduction
+  - very unique
+  - final outcome
+  - protest against

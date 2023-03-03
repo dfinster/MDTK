@@ -1,0 +1,17 @@
+---
+# Portions of this toolkit are modifications based on work created and shared by GitLab and 
+# used according to terms described in the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License.
+# https://gitlab.com/gitlab-org/gitlab/blob/master/CONTRIBUTING.md
+# 
+# Checks for use of future tense in sentences. Present tense is preferred as
+# much as possible.
+extends: existence
+message: "Be cautious with future tense phrases like '%s.'"
+link: https://github.com/dfinster/MDTK
+level: suggestion
+ignorecase: true
+raw:
+  - "(going to( |\n|[[:punct:]])[a-zA-Z]*|"
+  - "will( |\n|[[:punct:]])[a-zA-Z]*|"
+  - "won't( |\n|[[:punct:]])[a-zA-Z]*|"
+  - "[a-zA-Z]*'ll( |\n|[[:punct:]])[a-zA-Z]*)"

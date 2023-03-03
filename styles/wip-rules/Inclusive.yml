@@ -1,0 +1,16 @@
+---
+# Suggestion: mdtk.Inclusive
+#
+# Suggests inclusive term alternatives.
+extends: substitution
+message: "Please consider using %s instead of '%s.'"
+link: https://github.com/dfinster/MDTK
+level: suggestion
+ignorecase: true
+action:
+  name: replace
+swap:
+  blacklist(?:ed|ing|s)?: deny|denylist
+  master: primary|main
+  slave: secondary|replica|subordinate
+  whitelist(?:ed|ing|s)?: allow|allowlist

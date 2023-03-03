@@ -3,17 +3,24 @@
 # used according to terms described in the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License.
 # https://gitlab.com/gitlab-org/gitlab/blob/master/CONTRIBUTING.md
 # ---
-# Warning: gitlab.MeaningfulLinkWords
+# Warning: gitlab.LatinTerms
 #
-# Checks for the presence of semantically unhelpful words in link text.
+# Checks for use of latin terms.
 #
 # For a list of all options, see https://errata-ai.gitbook.io/vale/getting-started/styles
-extends: existence
-message: "Avoid '%s' in the link text. Use meaningful links to improve accessibility and optimize search results."
+extends: substitution
+message: "Please use %s instead of '%s', or consider rewriting the sentence."
 link: https://github.com/dfinster/MDTK
 level: error
-scope: link
+nonword: true
 ignorecase: true
-tokens:
-  - here
-  - this page
+action:
+  name: replace
+swap:
+  e\.g\.: for example
+  e\. g\.: for example
+  i\.e\.: that is
+  i\. e\.: that is
+  etc\.: and so on
+  et cetera: and so on
+  etcetera: and so on

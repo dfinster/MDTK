@@ -1,0 +1,14 @@
+---
+# Portions of this toolkit are modifications based on work created and shared by Microsoft and 
+# used according to terms described in the Creative Commons 4.0 Attribution International License.
+# https://github.com/MicrosoftDocs/microsoft-style-guide/lob/master/LICENSE
+extends: existence
+message: "Use 'a.m.' or 'p.m.' preceded by a space."
+link: https://github.com/dfinster/MDTK
+level: error
+nonword: true
+tokens:
+  - '\d{1,2} [AP]M'
+  - '\d{1,2} ?[ap]m'
+  - '\d{1,2} ?[AP]\.[M]\.'
+  - '\d{1,2}?[ap]\.[m]\.'
