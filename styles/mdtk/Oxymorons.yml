@@ -3,7 +3,7 @@
 # used according to terms described in the BSD 3-Clause License.
 # https://github.com/errata-ai/proselint/blob/master/LICENSE
 extends: existence
-message: "Please avoid oxymorons such as '%s.'"
+message: "Please avoid oxymorons and redundant phrases such as '%s.'"
 link: https://github.com/dfinster/MDTK
 level: error
 ignorecase: true
@@ -29,3 +29,6 @@ tokens:
   - very unique
   - final outcome
   - protest against
+  - honest truth
+  - plan ahead
+  - join together
