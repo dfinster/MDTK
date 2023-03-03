@@ -202,8 +202,7 @@ Ubiquiti
 [U|u]ntrusted
 Validator
 venv
-Vtiger
-[V|v]ultr
+[V|v]tiger
 mdtk-mdtk
 Virtualmin
 VMware
