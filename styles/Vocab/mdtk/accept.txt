@@ -24,6 +24,7 @@ Caddy
 [C|c]alibre
 CapRover
 Certbot
+Chargify
 Chatwoot
 Checkmk
 Chevereto
@@ -46,6 +47,7 @@ doas
 docx
 Dokku
 Elasticsearch
+EPYC
 fdisk
 FFmpeg
 Filebeat

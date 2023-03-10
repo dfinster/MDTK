@@ -5,10 +5,10 @@
 # Look for broken links in GitBook
 #
 extends: existence
-message: "This looks like a broken GitBook link."
+message: "This looks like a phantom bold character."
 link: https://github.com/dfinster/MDTK
 level: warning
 nonword: true
 scope: raw
 tokens:
-  - broken-reference
+  - \*\*\*\*
