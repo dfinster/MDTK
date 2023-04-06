@@ -1,9 +1,12 @@
 {
 	"folders": [
-		{
-			"path": "."
-		}
-    ],
+    {
+      "path": "."
+    },
+    {
+      "path": "Markdown"
+    }
+  ],
     "settings": {
         "markdown.extension.italic.indicator": "_",
         "markdown.extension.orderedList.marker": "one",

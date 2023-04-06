@@ -14,5 +14,12 @@ MDTK is a helpful aid for authors who write Markdown, consisting of style rules,
 
 1. Clone the repository to a folder on your workstation.
 1. Open `mdtk.code-workspace` with Visual Studio Code. This workspace configures the correct options for Vale and the Markdown extensions.
-1. Edit your Markdown files in the `Markdown` folder. *Errors* are underlined in red, *Warnings* in yellow, and *Suggestions* in blue. You can hover over the alerts for pop-up help.
-1. Open the *Problems* tab to view the complete list of errors, warnings, and suggestions.
+
+The workspace opens [two roots](https://code.visualstudio.com/docs/editor/multi-root-workspaces).
+
+* The `MDTK` root is where everything lives. It's where you go to change rules or vocabulary. I leave it collapsed most of the time.
+* The `Markdown` root is restricted to the Markdown directory. I use it to reduce visual clutter when writing.
+
+That's just how I work; feel free to add or remove roots to your workspace, you do you.
+
+_Errors_ are underlined in red, _Warnings_ in yellow, and _Suggestions_ in blue. You can hover over the alerts for pop-up help. Open the _Problems_ tab to view the complete list of errors, warnings, and suggestions.
